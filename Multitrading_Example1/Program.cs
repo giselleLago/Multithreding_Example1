@@ -3,7 +3,7 @@
 using System;
 using System.Threading;
 
-namespace Multitrading_Example1
+namespace Multithreding_Example1
 {
     class Program
     {
